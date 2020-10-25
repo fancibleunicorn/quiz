@@ -28,7 +28,6 @@ main {
 main h1 {
     color: crimson;
     width: 100%;
-    text-decoration: underline;
 }
 main p {
     width: 100%;
